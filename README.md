@@ -50,7 +50,7 @@ Built for AI-assisted development, this microkernel uses a strict "one file, one
 ### [LatinChain Platform](https://github.com/pi-apps/LatinChain)
 **Creator:** [rockcesar](https://github.com/rockcesar)
 
-This blockchain application enables Pioneers to play games, using the authentication and payment functionalities of the Pi SDK. One of the Pi Hackathon winners 2021.
+This blockchain application enables Pioneers to play games, using the authentication and payment functionalities of the Pi SDK. One of the 2021 Pi Hackathon winners.
 
 ### [LNp2pBot](https://github.com/lnp2pBot/bot)
 **Creator:** [grunch](https://github.com/grunch)
@@ -131,7 +131,7 @@ Technical documentation and tutorials regarding DevOps, Cloud, and infrastructur
 Software engineering and technology education. Co-founder of Innovamente.
 
 ### [César OpenSource Expert (rockcesar)](https://www.youtube.com/@rockcesar85/)
-OpenSource, IRL and more. Pi Hackathon winner 2021.
+Open-source, IRL, and more. 2021 Pi Hackathon winner.
 
 ### [AnibalOS](https://www.youtube.com/@AnibalOS/)
 Technical demonstrations of homelab, self-hosting, Linux, and automation.

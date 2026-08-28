@@ -50,7 +50,7 @@ Creado para el desarrollo asistido por IA, este microkernel utiliza un enfoque e
 ### [LatinChain Platform](https://github.com/pi-apps/LatinChain)
 **Creador:** [rockcesar](https://github.com/rockcesar)
 
-Esta aplicación basada en blockchain permite a los Pioneros jugar utilizando las funcionalidades de autenticación y pago del SDK de Pi. Fue una de las ganadoras del Pi Hackathon de 2021.
+Esta aplicación basada en blockchain permite a los Pioneros jugar utilizando las funcionalidades de autenticación y pago del SDK de Pi. Fue una de las ganadoras del Pi Hackathon 2021.
 
 ### [LNp2pBot](https://github.com/lnp2pBot/bot)
 **Creador:** [grunch](https://github.com/grunch)
@@ -131,7 +131,7 @@ Contenido técnico sobre DevOps, Cloud y herramientas de infraestructura.
 Ingeniería de software y comunicación tecnológica. Co-fundadora de Innovamente.
 
 ### [César OpenSource Expert (rockcesar)](https://www.youtube.com/@rockcesar85/)
-OpenSource, IRL y más. Ganador del Pi Hackathon 2021.
+Open source, IRL y más. Ganador del Pi Hackathon 2021.
 
 ### [AnibalOS](https://www.youtube.com/@AnibalOS/)
 Exploración de Homelab, Self-Hosting, Linux y automatización.
