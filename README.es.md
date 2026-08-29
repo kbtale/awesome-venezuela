@@ -35,17 +35,22 @@ Una colección de proyectos open-source creados por developers de Venezuela. Est
 
 ## Sistemas y Runtimes
 
-### [Nodepp](https://github.com/NodeppOfficial/nodepp)
-**Creador:** [EDBCREPO](https://github.com/EDBCREPO)
-
-Este runtime de C++ te permite escribir código asíncrono que corre en cualquier lugar, desde un pequeño microcontrolador hasta un cloud server. Omite las virtual machines y los garbage collectors para hablar directamente con el hardware, lo que mantiene el uso de recursos increíblemente bajo.
-
 ### [MicroCoreOS](https://github.com/theanibalos/MicroCoreOS)
 **Creador:** [theanibalos](https://github.com/theanibalos)
 
 Creado para el desarrollo asistido por IA, este microkernel utiliza un enfoque estricto de "un archivo, un feature". Genera un system manifest en vivo llamado `AI_CONTEXT.md` en el boot, dándole a los AI agents exactamente el contexto que necesitan para construir nuevos features sin romper la arquitectura.
 
+### [Nodepp](https://github.com/NodeppOfficial/nodepp)
+**Creador:** [EDBCREPO](https://github.com/EDBCREPO)
+
+Este runtime de C++ te permite escribir código asíncrono que corre en cualquier lugar, desde un pequeño microcontrolador hasta un cloud server. Omite las virtual machines y los garbage collectors para hablar directamente con el hardware, lo que mantiene el uso de recursos increíblemente bajo.
+
 ## P2P y Finanzas
+
+### [Chitty BCV API](https://github.com/chitty400/chitty-bcv-api)
+**Creador:** [chitty400](https://github.com/chitty400)
+
+API pública que expone datos del INPC más allá de solo la tasa BCV del día. Es la única API conocida que entrega inflación. Actualiza de madrugada evitando que, si el BCV actualiza la tasa de mañana desde hoy a las 4 pm y luego la cambia a las 6 pm, la tasa quede mal.
 
 ### [LatinChain Platform](https://github.com/pi-apps/LatinChain)
 **Creador:** [rockcesar](https://github.com/rockcesar)
@@ -62,22 +67,17 @@ Este bot de Telegram maneja trades de Bitcoin peer-to-peer usando la Lightning N
 
 Mostro ejecuta un exchange P2P descentralizado sobre la Lightning Network y Nostr. Se enfoca en la resistencia a la censura y la privacidad, permitiendo un trading libre de KYC con un sistema de disputas integrado que funciona sin una autoridad central.
 
-### [Chitty BCV API](https://github.com/chitty400/chitty-bcv-api)
-**Creador:** [chitty400](https://github.com/chitty400)
-
-API pública que expone datos del INPC más allá de solo la tasa BCV del día. Es la única API conocida que entrega inflación. Actualiza de madrugada evitando que, si el BCV actualiza la tasa de mañana desde hoy a las 4 pm y luego la cambia a las 6 pm, la tasa quede mal.
-
 ## DevOps y Tools
-
-### [AppJail](https://github.com/DtxdF/AppJail)
-**Creador:** [DtxdF](https://github.com/DtxdF)
-
-Framework para manejar jails de FreeBSD como los containers modernos. Sirve para automatiza tareas complejas de networking y deployment a través de un setup modular que no interfiere con la configuración central del host.
 
 ### [Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages)
 **Creador:** [Samueru-sama](https://github.com/Samueru-sama)
 
 Estas AppImages están diseñadas para correr en prácticamente cualquier distro de Linux, incluso en las más antiguas. Empaquetan cada dependency y usan un sistema inteligente de fallback para asegurar que el software siga funcionando sin importar el setup del host.
+
+### [AppJail](https://github.com/DtxdF/AppJail)
+**Creador:** [DtxdF](https://github.com/DtxdF)
+
+Framework para manejar jails de FreeBSD como los containers modernos. Sirve para automatiza tareas complejas de networking y deployment a través de un setup modular que no interfiere con la configuración central del host.
 
 ### [TatSu](https://github.com/neogeny/TatSu)
 **Creador:** [apalala](https://github.com/apalala)
@@ -124,17 +124,17 @@ Archivo histórico y open-source que documenta la industria nacional de videojue
 
 ## Creadores de Contenido
 
-### [DaveOps](https://www.youtube.com/@DaveOps/)
-Contenido técnico sobre DevOps, Cloud y herramientas de infraestructura.
-
-### [Daniela Barazarte (Ingeniela)](https://www.youtube.com/@ingeniela/)
-Ingeniería de software y comunicación tecnológica. Co-fundadora de Innovamente.
+### [AnibalOS](https://www.youtube.com/@AnibalOS/)
+Exploración de Homelab, Self-Hosting, Linux y automatización.
 
 ### [César OpenSource Expert (rockcesar)](https://www.youtube.com/@rockcesar85/)
 Open source, IRL y más. Ganador del Pi Hackathon 2021.
 
-### [AnibalOS](https://www.youtube.com/@AnibalOS/)
-Exploración de Homelab, Self-Hosting, Linux y automatización.
+### [Daniela Barazarte (Ingeniela)](https://www.youtube.com/@ingeniela/)
+Ingeniería de software y comunicación tecnológica. Co-fundadora de Innovamente.
+
+### [DaveOps](https://www.youtube.com/@DaveOps/)
+Contenido técnico sobre DevOps, Cloud y herramientas de infraestructura.
 
 ## Proyectos Legacy e Inactivos
 
@@ -142,10 +142,10 @@ Estos proyectos están archivados, inactivos o se consideran legacy.
 
 | Proyecto | Creador | Descripción | Última Actividad |
 | :--- | :--- | :--- | :--- |
+| [Doom Nvim](https://github.com/doom-neovim/doom-nvim) | [NTBBloodbath](https://github.com/NTBBloodbath) | Framework de configuración modular para Neovim. Actualmente en un proceso importante de refactor y rewrite. | Hace 3 años |
+| [ForthOS](https://github.com/jdinunzio/forthos) | [jdinunzio](https://github.com/jdinunzio) | Sistema operativo x86 experimental y Forth interpreter construido desde cero. | Hace 17 años |
 | [Hunter](https://github.com/milmazz/hunter) | [milmazz](https://github.com/milmazz) | Librería client de Elixir para Mastodon y plataformas compatibles con GNU social. | Hace 4 años |
 | [Turpial](https://github.com/satanas/Turpial) | [satanas](https://github.com/satanas) | Client de microblogging ligero con interfaces Gtk, Qt y CLI. | Hace 10 años |
-| [ForthOS](https://github.com/jdinunzio/forthos) | [jdinunzio](https://github.com/jdinunzio) | Sistema operativo x86 experimental y Forth interpreter construido desde cero. | Hace 17 años |
-| [Doom Nvim](https://github.com/doom-neovim/doom-nvim) | [NTBBloodbath](https://github.com/NTBBloodbath) | Framework de configuración modular para Neovim. Actualmente en un proceso importante de refactor y rewrite. | Hace 3 años |
 
 ## Contribuir
 

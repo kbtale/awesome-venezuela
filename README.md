@@ -35,17 +35,22 @@ A collection of open-source projects built by developers from Venezuela. This is
 
 ## Systems & Runtimes
 
-### [Nodepp](https://github.com/NodeppOfficial/nodepp)
-**Creator:** [EDBCREPO](https://github.com/EDBCREPO)
-
-This C++ runtime lets you write asynchronous code that runs anywhere from a tiny microcontroller to a cloud server. It bypasses virtual machines and garbage collectors to talk directly to the hardware, which keeps resource usage incredibly low.
-
 ### [MicroCoreOS](https://github.com/theanibalos/MicroCoreOS)
 **Creator:** [theanibalos](https://github.com/theanibalos)
 
 Built for AI-assisted development, this microkernel uses a strict "one file, one feature" approach. It generates a live system manifest called `AI_CONTEXT.md` on boot, giving AI agents exactly the context they need to build new features without breaking the architecture.
 
+### [Nodepp](https://github.com/NodeppOfficial/nodepp)
+**Creator:** [EDBCREPO](https://github.com/EDBCREPO)
+
+This C++ runtime lets you write asynchronous code that runs anywhere from a tiny microcontroller to a cloud server. It bypasses virtual machines and garbage collectors to talk directly to the hardware, which keeps resource usage incredibly low.
+
 ## P2P & Finance
+
+### [Chitty BCV API](https://github.com/chitty400/chitty-bcv-api)
+**Creator:** [chitty400](https://github.com/chitty400)
+
+A public API that provides INPC (CPI) data beyond just the daily BCV rate. It is the only known API that delivers inflation figures. It updates in the early morning hours, ensuring accuracy even if the BCV publishes tomorrow's rate at 4 PM and subsequently modifies it at 6 PM.
 
 ### [LatinChain Platform](https://github.com/pi-apps/LatinChain)
 **Creator:** [rockcesar](https://github.com/rockcesar)
@@ -62,22 +67,17 @@ This Telegram bot handles peer-to-peer Bitcoin trades using the Lightning Networ
 
 Mostro runs a decentralized P2P exchange on top of the Lightning Network and Nostr. It focuses on censorship resistance and privacy, enabling KYC-free trading with a built-in dispute system that works without a central authority.
 
-### [Chitty BCV API](https://github.com/chitty400/chitty-bcv-api)
-**Creador:** [chitty400](https://github.com/chitty400)
-
-A public API that provides INPC (CPI) data beyond just the daily BCV rate. It is the only known API that delivers inflation figures. It updates in the early morning hours, ensuring accuracy even if the BCV publishes tomorrow's rate at 4 PM and subsequently modifies it at 6 PM.
-
 ## DevOps & Tools
-
-### [AppJail](https://github.com/DtxdF/AppJail)
-**Creator:** [DtxdF](https://github.com/DtxdF)
-
-Manage FreeBSD jails as easily as modern containers with this orchestration framework. It automates complex networking and deployment tasks through a modular setup that doesn't mess with your host's core configuration.
 
 ### [Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages)
 **Creator:** [Samueru-sama](https://github.com/Samueru-sama)
 
 These AppImages are designed to run on virtually any Linux distro, even ancient ones. Each image bundles all necessary dependencies and uses a smart fallback system to ensure software keeps working regardless of the host setup.
+
+### [AppJail](https://github.com/DtxdF/AppJail)
+**Creator:** [DtxdF](https://github.com/DtxdF)
+
+Manage FreeBSD jails as easily as modern containers with this orchestration framework. It automates complex networking and deployment tasks through a modular setup that doesn't mess with your host's core configuration.
 
 ### [TatSu](https://github.com/neogeny/TatSu)
 **Creator:** [apalala](https://github.com/apalala)
@@ -124,17 +124,17 @@ An open-source historical archive documenting the Venezuelan video game industry
 
 ## Content Creators
 
-### [DaveOps](https://www.youtube.com/@DaveOps/)
-Technical documentation and tutorials regarding DevOps, Cloud, and infrastructure.
-
-### [Daniela Barazarte (Ingeniela)](https://www.youtube.com/@ingeniela/)
-Software engineering and technology education. Co-founder of Innovamente.
+### [AnibalOS](https://www.youtube.com/@AnibalOS/)
+Technical demonstrations of homelab, self-hosting, Linux, and automation.
 
 ### [César OpenSource Expert (rockcesar)](https://www.youtube.com/@rockcesar85/)
 Open-source, IRL, and more. 2021 Pi Hackathon winner.
 
-### [AnibalOS](https://www.youtube.com/@AnibalOS/)
-Technical demonstrations of homelab, self-hosting, Linux, and automation.
+### [Daniela Barazarte (Ingeniela)](https://www.youtube.com/@ingeniela/)
+Software engineering and technology education. Co-founder of Innovamente.
+
+### [DaveOps](https://www.youtube.com/@DaveOps/)
+Technical documentation and tutorials regarding DevOps, Cloud, and infrastructure.
 
 ## Legacy & Inactive Projects
 
@@ -142,10 +142,10 @@ These projects are either archived, inactive, or considered legacy.
 
 | Project | Creator | Description | Last Activity |
 | :--- | :--- | :--- | :--- |
+| [Doom Nvim](https://github.com/doom-neovim/doom-nvim) | [NTBBloodbath](https://github.com/NTBBloodbath) | Modular configuration framework for Neovim. Currently undergoing a major refactor and rewrite. | 3 years ago |
+| [ForthOS](https://github.com/jdinunzio/forthos) | [jdinunzio](https://github.com/jdinunzio) | Experimental x86 operating system and Forth interpreter built from the ground up. | 17 years ago |
 | [Hunter](https://github.com/milmazz/hunter) | [milmazz](https://github.com/milmazz) | Elixir client library for Mastodon and GNU social-compatible platforms. | 4 years ago |
 | [Turpial](https://github.com/satanas/Turpial) | [satanas](https://github.com/satanas) | Lightweight microblogging client with Gtk, Qt, and CLI interfaces. | 10 years ago |
-| [ForthOS](https://github.com/jdinunzio/forthos) | [jdinunzio](https://github.com/jdinunzio) | Experimental x86 operating system and Forth interpreter built from the ground up. | 17 years ago |
-| [Doom Nvim](https://github.com/doom-neovim/doom-nvim) | [NTBBloodbath](https://github.com/NTBBloodbath) | Modular configuration framework for Neovim. Currently undergoing a major refactor and rewrite. | 3 years ago |
 
 ## Contributing
 
