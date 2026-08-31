@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Community Discussions
+    url: https://github.com/kbtale/awesome-venezuela/discussions
+    about: Ask questions, share ideas, or discuss projects with the Venezuelan developer community.
+  - name: 🔒 Security & Sensitive Inquiries
+    url: https://github.com/kbtale/awesome-venezuela/security/policy
+    about: Read our security policy and learn how to report sensitive issues privately.

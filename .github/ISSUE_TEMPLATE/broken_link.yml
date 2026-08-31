@@ -1,0 +1,41 @@
+name: 🔗 Report Broken Link or Moved Repo / Reportar Enlace Roto
+description: Report a dead link, moved project, or renamed repository.
+title: "[Broken Link]: "
+labels: ["bug", "maintenance"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping keep the links in Awesome Venezuela active and accurate!
+
+  - type: input
+    id: project_name
+    attributes:
+      label: Affected Project / Proyecto Afectado
+      placeholder: e.g. Project Name
+    validations:
+      required: true
+
+  - type: input
+    id: current_link
+    attributes:
+      label: Current Broken URL / URL Rota Actual
+      placeholder: https://github.com/old-user/old-project
+    validations:
+      required: true
+
+  - type: input
+    id: updated_link
+    attributes:
+      label: New / Updated URL (if known) / Nueva URL (si se conoce)
+      placeholder: https://github.com/new-user/new-project
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: Additional Details / Detalles Adicionales
+      placeholder: Any additional context (e.g. repo archived, 404, author renamed account).
+    validations:
+      required: false

@@ -1,0 +1,27 @@
+name: 💡 General Suggestion or Improvement / Sugerencia o Mejora
+description: Propose a general idea, new category, or improvement for Awesome Venezuela.
+title: "[Idea]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea to make Awesome Venezuela even better? Share your suggestion below!
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal / Propuesta
+      description: Detailed explanation of what you would like to see changed or added.
+      placeholder: I propose adding a new category for...
+    validations:
+      required: true
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale & Benefits / Justificación y Beneficios
+      description: Why would this be valuable for the community?
+      placeholder: This will help developers find...
+    validations:
+      required: false
