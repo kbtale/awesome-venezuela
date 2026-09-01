@@ -101,6 +101,11 @@ A professional PHP library to validate, format and generate RIF (Tax Information
 
 A Laravel package that provides user auditing capabilities for your database tables and Eloquent models. Easily track which users create, update, and delete records in your application.
 
+### [heatmap-dot-go](https://github.com/galindocode/heatmap-dot-go)
+**Creator:** [galindocode](https://github.com/galindocode)
+
+A Go library for generating heatmap visualizations. Create standalone heatmaps or overlay them on existing images, with a smooth Gaussian mode that blends heat like a thermal camera.
+
 ## Mobile Apps
 
 ### [BoomingMusic](https://github.com/mardous/BoomingMusic)

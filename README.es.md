@@ -101,6 +101,11 @@ Librería de PHP para validar, formatear y generar números de RIF (Registro de 
 
 Paquete de Laravel que proporciona capacidades de auditoría para tablas de base de datos y modelos de Eloquent. Permite rastrear qué usuarios crean, actualizan y eliminan registros en la aplicación.
 
+### [heatmap-dot-go](https://github.com/galindocode/heatmap-dot-go)
+**Creador:** [galindocode](https://github.com/galindocode)
+
+Librería de Go para generar visualizaciones de heatmap. Crea heatmaps standalone o superpuestos sobre imágenes existentes, con un modo Gaussiano que mezcla el calor como una cámara térmica.
+
 ## Aplicaciones Móviles
 
 ### [BoomingMusic](https://github.com/mardous/BoomingMusic)
