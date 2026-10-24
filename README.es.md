@@ -67,6 +67,11 @@ Este bot de Telegram maneja trades de Bitcoin peer-to-peer usando la Lightning N
 
 Mostro ejecuta un exchange P2P descentralizado sobre la Lightning Network y Nostr. Se enfoca en la resistencia a la censura y la privacidad, permitiendo un trading libre de KYC con un sistema de disputas integrado que funciona sin una autoridad central.
 
+### [usaprais](https://github.com/platanus-hack/platanus-hack-26-ve-team-10)
+**Creador:** [Pleo2](https://github.com/Pleo2), [enriqueuz](https://github.com/enriqueuz), [roybertparada](https://github.com/roybertparada), [diegogallovich](https://github.com/diegogallovich), [colarussozz](https://github.com/colarussozz)
+
+Comparador de precios para Venezuela ([usaprais.com](https://usaprais.com)). Busca un producto en los principales canales de venta y muestra dónde está más barato, ordenado por precio en USD, con el precio original, la tasa de cambio usada y un puntaje de confianza del comercio. Su asistente, Prais, funciona en la web, en WhatsApp y como servidor MCP para ChatGPT y Claude.
+
 ## DevOps y Tools
 
 ### [Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages)
