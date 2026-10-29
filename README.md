@@ -67,6 +67,11 @@ This Telegram bot handles peer-to-peer Bitcoin trades using the Lightning Networ
 
 Mostro runs a decentralized P2P exchange on top of the Lightning Network and Nostr. It focuses on censorship resistance and privacy, enabling KYC-free trading with a built-in dispute system that works without a central authority.
 
+### [usaprais](https://github.com/platanus-hack/platanus-hack-26-ve-team-10)
+**Creator:** [Pleo2](https://github.com/Pleo2), [enriqueuz](https://github.com/enriqueuz), [roybertparada](https://github.com/roybertparada), [diegogallovich](https://github.com/diegogallovich), [colarussozz](https://github.com/colarussozz)
+
+Price comparison for Venezuela ([usaprais.com](https://usaprais.com)). It searches the main sales channels for a product and shows where it's cheapest, sorted by USD price, with the original price, the exchange rate used and a merchant trust score. Its assistant, Prais, works on the web, on WhatsApp and as an MCP server for ChatGPT and Claude.
+
 ## DevOps & Tools
 
 ### [Anylinux-AppImages](https://github.com/pkgforge-dev/Anylinux-AppImages)
